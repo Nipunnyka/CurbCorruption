@@ -1,0 +1,8 @@
+1)	These are basic predictive models for used for predicting the chances of corruption in a particular place based on parameters like literacy rate, crime rate, poverty rate etc
+2)	There are 3 files model.py which has the neural network, train.py which is used for training the model and test.py which used to display the results.
+3)	As the dataset will be made during real time the files have been made such that it can feed the required parameters to the model in real time for training
+4)	For starting we have just taken 4-5 parameters and we'll feed that to the network for 4-5 states.
+5)	You may not be needed to run train.py and model.py as it is already done and values are stored
+6)	Running test.py right now shows chances of corruption in Bengaluru. 
+
+
