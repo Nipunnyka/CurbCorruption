@@ -1,5 +1,5 @@
-## Report Similarity Model 
-To ensure reliable anonymous reports, we check the similarity of reports obtained from the same localtion in similar departments against no anoymous reports and grant them a *degree of reliability*
+## Description 
+To ensure reliable anonymous reports, we check the similarity of reports obtained from the same localtion in similar departments against non anonymous reports and grant them a *degree of reliability*
 
 ## Machine Dependencies
 1. Keras
