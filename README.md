@@ -1,6 +1,9 @@
 # CurbCorruption
 the code base for Curb-Corruption portal developed for SIH 2020.
 This is a solution and an implementation of a problem statement of the Smart India Hackathon 2020. This solution focussed on combating bribery and digital policing.
+Team Name: BanderSnatch
+- [QnA for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH%20QnA.pdf)
+- [Presentation for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIHppt.pdf)
 
 Our team developed a working web and mobile app which centered on the following aspects:
 ```
