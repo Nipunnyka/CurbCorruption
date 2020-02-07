@@ -14,6 +14,7 @@ This is a solution and an implementation of a problem statement of the Smart Ind
 Team Name: BanderSnatch
 - [QnA for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH%20QnA.pdf)
 - [Presentation for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIHppt.pdf)
+- [Video Demo](https://youtu.be/Iofrp1x5jBU)
 
 Our team developed a working web and mobile app which centered on the following aspects:
 ```
@@ -24,8 +25,6 @@ Our team developed a working web and mobile app which centered on the following 
 ```
 In future, we aim to employ **data visualization** to help make information more open as to facilitate upward transparency.
 The reporting mechanism guaratees anonimity if the user opts for it, to ensure that **reliable anonymous reports** we have a report similarity checking mechanism. Furthermore, based on the reports we will generate an **early warning system** that predicts the chances of corruption happening in a department of a particular location. To automate the process we have deployed a flask based API that **mines for the essential parameters** for the Early Warning System based on the the report's location.
-
-[Link to Video Demo]
 
 ## Getting Started:
 Since the prototype has not been integrated each subsection has a README file with instructions on running the Application, the project currently is divided into the following five subsections:
