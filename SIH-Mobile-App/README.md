@@ -1,5 +1,3 @@
-# CurbCorruption
-the code base for Curb-Corruption portal developed for SIH 2020
-
-- [NodeJS Web App](https://curb-corruption.herokuapp.com/)  
-- [Flask API](https://curb-corruption-api.herokuapp.com/?city=Mumbai&state=Maharashtra)  
+## Description
+codebase for the mobile application of CurbCorruption written flutter
+download this [apk file](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH-Mobile-App/sih_app-2.apk) to run it on an Android phone.
