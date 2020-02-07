@@ -10,6 +10,7 @@ With our aim to fight against bribery, we seek Digital Solution to Combat Briber
 Domain Bucket 	Security & Surveillance
 
 This is a solution and an implementation of a problem statement of the Smart India Hackathon 2020. This solution focussed on combating bribery and digital policing.
+
 Team Name: BanderSnatch
 - [QnA for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH%20QnA.pdf)
 - [Presentation for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIHppt.pdf)
