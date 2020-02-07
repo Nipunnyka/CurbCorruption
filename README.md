@@ -44,8 +44,8 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/github-sr"><img src="https://avatars.githubusercontent.com/github-sr" width="100px;" alt=""/><br /><sub><b>Sachin Kumar Roy</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Ayush-KS"><img src="https://avatars2.githubusercontent.com/u/45496026?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Ayush Kumar Singh</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/AloxGit"><img src="https://avatars2.githubusercontent.com/u/45495804?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alok Anand</b></sub></a><br /></td>
-    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt=""/><br /><sub><b>Manan Arora</b></sub></a><br /></td>
-    <td align="center"><a href="http://maxcubing.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;" alt=""/><br /><sub><b>Prakhar Garg</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/manalarora"><img src="https://avatars2.githubusercontent.com/u/42407286?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Manan Arora</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/pgcoder27"><img src="https://avatars1.githubusercontent.com/u/48362539?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Prakhar Garg</b></sub></a><br /></td>
    </tr>
 </table>
 
