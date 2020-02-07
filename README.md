@@ -3,10 +3,14 @@ the code base for Curb-Corruption portal developed for SIH 2020.
 This is a solution and an implementation of a problem statement of the Smart India Hackathon 2020. This solution focussed on combating bribery and digital policing.
 
 Our team developed a working web and mobile app which centered on the following aspects:
+```
     1. A reporting system which allows users to report the incidents where they were asked to pay a bribe.
+```
+```
     2. A bribe addressing system where users can report the incidents where they had to pay a bribe.
-In future, we aim to employ data visualization to help make information more open as to facilitate upward transparency.
-The reporting mechanism guaratees anonimity if the user opts for it, to ensure that reliable anonymous reports we have a report similarity checking mechanism. Furthermore, based on the reports we will generate an early warning system that predicts the chances of corruption happening in a department of a particular location. To automate the process we have deployed a flask based API that mines for the essential parameters for the Early Warning System based on the the report's location.
+```
+In future, we aim to employ **data visualization** to help make information more open as to facilitate upward transparency.
+The reporting mechanism guaratees anonimity if the user opts for it, to ensure that **reliable anonymous reports** we have a report similarity checking mechanism. Furthermore, based on the reports we will generate an **early warning system** that predicts the chances of corruption happening in a department of a particular location. To automate the process we have deployed a flask based API that **mines for the essential parameters** for the Early Warning System based on the the report's location.
 
 
 ## Getting Started:
