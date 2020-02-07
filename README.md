@@ -3,7 +3,8 @@ the code base for Curb-Corruption portal developed for SIH 2020.
 
 **Problem Statement**
 PS# RK58 Software
-Description 	
+
+Description: 	
 With our aim to fight against bribery, we seek Digital Solution to Combat Bribery & Justice Restoration System for better policing and improved public delivery system. Solution should (1) Provide efficient ways of public delivery system for combating bribery (2) Reporting bribery incidences to authorities. You may add value addition features to your solution.
 
 Domain Bucket 	Security & Surveillance
