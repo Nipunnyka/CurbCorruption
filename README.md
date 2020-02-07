@@ -12,9 +12,13 @@ The reporting mechanism guaratees anonimity if the user opts for it, to ensure t
 ## Getting Started:
 Since the prototype has not been integrated each subsection has a README file with instructions on running the Application, the project currently is divided into the following five subsections:
 -[NodeJS WebApp](https://github.com/Nipunnyka/CurbCorruption/tree/master/WebAppQC)
+
 -[Flask API](https://github.com/Nipunnyka/CurbCorruption/tree/master/API)
+
 -[Flutter Mobile Application](https://github.com/Nipunnyka/CurbCorruption/tree/master/SIH-Mobile-App)
+
 -[Similar Report Detection](https://github.com/Nipunnyka/CurbCorruption/tree/master/report_similarity_model)
+
 -[Early Warning System](https://github.com/Nipunnyka/CurbCorruption/tree/master/early_warning_system)
 
 ## Deployed Prototypes:
@@ -24,7 +28,9 @@ Since the prototype has not been integrated each subsection has a README file wi
  
 ## Acknowledgements:
 -[Towards Digital Anti-Corruption Typology for Public Service Delivery](https://dl.acm.org/doi/abs/10.1145/3325112.3325266): helped in ascertaining which digital solution to deploy in the local context of India.
+
 -[Are emerging technologies helpingwin the fight against corruption indeveloping countries?](http://www.govtransparency.eu/wp-content/uploads/2019/02/ICT-corruption-24Feb19_FINAL.pdf): helped in ascertaining which digital solution to deploy in the local context of India.
+
 -[Predicting Public Corruption with Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075828): basis of our warning system, lays out the parameters which help predict corruption levels.
 
 
