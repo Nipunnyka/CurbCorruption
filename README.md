@@ -22,6 +22,7 @@ Since the prototype has not been integrated each subsection has a README file wi
 - [Early Warning System](https://github.com/Nipunnyka/CurbCorruption/tree/master/early_warning_system)
 
 ## Deployed Prototypes:
+*the following have been deployed on **heroku***
 - [NodeJS Web App](https://curb-corruption.herokuapp.com/)  
 - [Flask API](https://curb-corruption-api.herokuapp.com/?city=Mumbai&state=Maharashtra) 
 - [Android APK](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH-Mobile-App/sih_app-2.apk)
