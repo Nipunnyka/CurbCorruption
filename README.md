@@ -1,13 +1,16 @@
 # CurbCorruption
 the code base for Curb-Corruption portal developed for SIH 2020
 
+
+# Deployed Prototypes:
 - [NodeJS Web App](https://curb-corruption.herokuapp.com/)  
-- [Flask API](https://curb-corruption-api.herokuapp.com/?city=Mumbai&state=Maharashtra)  
+- [Flask API](https://curb-corruption-api.herokuapp.com/?city=Mumbai&state=Maharashtra) 
+- [Android APK](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH-Mobile-App/sih_app-2.apk)
 
 
 
-##Contributors
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## Contributors
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
