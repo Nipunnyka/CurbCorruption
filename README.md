@@ -53,7 +53,7 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Nipunnyka"><img src="https://avatars.githubusercontent.com/Nipunnyka" width="100px;" alt=""/><br /><sub><b>Nipunika</b></sub></a><br /> </td>
-    <td align="center"><a href="https://github.com/github-sr"><img src="https://avatars.githubusercontent.com/github-sr" width="100px;" alt=""/><br /><sub><b>Sachin Kumar Roy</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/github-sr"><img src="https://avatars.githubusercontent.com/github-sr" width="100px;" alt=""/><br /><sub><b>Sachin Roy</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Ayush-KS"><img src="https://avatars2.githubusercontent.com/u/45496026?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Ayush Kumar Singh</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/AloxGit"><img src="https://avatars2.githubusercontent.com/u/45495804?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alok Anand</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/manalarora"><img src="https://avatars2.githubusercontent.com/u/42407286?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Manan Arora</b></sub></a><br /></td>
