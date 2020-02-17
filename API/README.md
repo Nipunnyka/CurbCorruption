@@ -6,12 +6,20 @@ mines for parameters such as housing index, poverty rate etc from the internet b
 1. installing the , run the following command on shell
 ```
 pip install -r requirements.txt
+```  
+2. Add below mentioned environment variables in .env file
 ```
-2. to run the API
+FLASK_APP=main
+```  
+```
+JSON_AS_ASCII=False
+```  
+3. to run the API
 ```
 flask run
 ```
 ## Machine Dependencies
-1. flask
-2. beautiful soup
+1. flask  
+2. beautiful soup  
+3. tensorflow  
 
