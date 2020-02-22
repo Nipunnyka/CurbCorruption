@@ -13,7 +13,7 @@ This is a solution and an implementation of a problem statement of the Smart Ind
 
 Team Name: BanderSnatch
 - [QnA for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIH%20QnA.pdf)
-- [Presentation for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/SIHppt.pdf)
+- [Presentation for the product](https://github.com/Nipunnyka/CurbCorruption/blob/master/Curb%20Corruption(1).pdf)
 - [Video Demo](https://youtu.be/Iofrp1x5jBU)
 
 Our team developed a working web and mobile app which centered on the following aspects:
